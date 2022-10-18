@@ -1,0 +1,4 @@
+#Mon Oct 17 22:06:08 COT 2022
+base.0=/Users/eplacencio/Documents/development/apps/plazt_trips_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
